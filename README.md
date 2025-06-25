@@ -63,8 +63,6 @@ The system provides the top 10 recommended movies for any selected movie title. 
 
 ![Screenshot 2024-07-12 103743](https://github.com/user-attachments/assets/fbc357a1-a6e6-472a-892b-95fe96767743)
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
